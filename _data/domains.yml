@@ -76,7 +76,6 @@ websites:
     - name: Dyn
       url: http://dyn.com/
       img: dyn.png
-      twitter: dyn
       tfa: Yes
       sms: Yes
       doc: https://help.dyn.com/2-factor-authentication/

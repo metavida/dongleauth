@@ -96,7 +96,6 @@ websites:
 
     - name: Rackspace
       url: https://www.rackspace.com/
-      twitter: rackspace
       img: rackspace.png
       tfa: Yes
       sms: Yes
