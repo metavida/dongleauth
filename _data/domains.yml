@@ -59,7 +59,7 @@ websites:
       twitter: DomainDotCom
       img: domaindotcom.png
       tfa: no
-
+      
     - name: DomainsAtCost
       url: https://www.domainsatcost.ca/
       twitter: domainsatcost
@@ -76,9 +76,9 @@ websites:
     - name: Dyn
       url: http://dyn.com/
       img: dyn.png
-      tfa: Yes
-      sms: Yes
-      doc: https://help.dyn.com/2-factor-authentication/
+      twitter: dyn
+      tfa: No
+      status: https://twitter.com/kelly_crehan/status/451460284931379200
 
     - name: Dynadot
       url: http://dynadot.com/
